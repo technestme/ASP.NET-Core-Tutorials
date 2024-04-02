@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ASP.NET Projects\\Tutorials\\2\\TodoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TodoList.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TodoList.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ASP.NET Projects\\Tutorials\\2\\TodoList\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\ASP.NET Projects\\Tutorials\\2\\TodoList\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ASP.NET Projects\\Tutorials\\2\\TodoList\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP.NET Projects\\Tutorials\\2\\TodoList\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TodoList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TodoList.props",
+      "PackagePath": "build\\TodoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TodoList.props",
+      "PackagePath": "buildMultiTargeting\\TodoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TodoList.props",
+      "PackagePath": "buildTransitive\\TodoList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
